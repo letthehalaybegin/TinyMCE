@@ -1,5 +1,5 @@
 {
-    "name": "orchidcommunity/tinymce",
+    "name": "letthehalaybegin/tinymce",
     "description": "TinyMCE editor for Laravel Orchid",
     "type": "library",
     "require": {
