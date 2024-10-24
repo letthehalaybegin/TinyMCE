@@ -26,6 +26,6 @@ class TinyMCEServiceProvider extends RouteServiceProvider
             __DIR__ . '/../public' => public_path('js/platform/tinymce')
         ], ['laravel-assets']);
 
-        parent::boot();
+        //parent::boot();
     }
 }
